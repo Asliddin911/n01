@@ -1,0 +1,85 @@
+.box{
+    text-align: center;
+    background-color: aqua;
+   
+    border: 4px solid rgb(252, 8, 8);
+    border-radius: 20px;
+}
+.box1{
+    color: rgb(221, 25, 25);
+}
+.baxA{
+    color: green;
+    font-size: 18px;
+}
+.box2{
+    background-color: rgb(255, 255, 45) ;
+    text-align: center;
+    color: green;
+}
+div{
+    margin-left: 40px;
+}
+img{
+    width: 900px;
+    height: 500px;
+}
+
+.box3{
+    background-color: yellow;
+    text-align: center;
+    color: green;
+}
+
+
+.Tarzan{
+    color: green;
+}
+.box4{
+    width:100% ;
+}
+.box5{
+    color: green;
+}
+
+button{
+    background-color: rgb(58, 58, 241);
+}
+.box6{
+    background-color: rgb(255, 255, 33);
+    text-align: center;
+    color: green;
+}
+
+table,th,td,tr{
+
+    border: 1px solid white;
+    border-collapse: collapse;
+
+}
+.miyaw1{
+background-color: green;
+}
+
+.miyaw2{
+    background-color: blue;
+}
+
+.miyaw3{
+    background-color: red;
+}
+
+.miyaw4{
+    background-color: black;
+}
+.miyaw5{
+    background-color: red;
+}
+.miyaw6{
+    background-color: black;
+}
+table{
+    width: 1500px;
+    text-align: center;
+    color: white;
+}
